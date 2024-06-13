@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "homeWork/src",
+        "homeWork"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
